@@ -16,7 +16,9 @@ DaRT-Python-Edition ( DayZ Remote Tool Python Edition )
 
 интерфейс:
 <img width="432" height="381" alt="image" src="https://github.com/user-attachments/assets/f1b8447a-0dad-40fd-8ef6-9b59020cf49d" />
+
 <img width="441" height="367" alt="image" src="https://github.com/user-attachments/assets/5b921635-0586-4c41-ad35-02b9550bde22" />
+
 <img width="422" height="228" alt="image" src="https://github.com/user-attachments/assets/ceb49345-b53d-480c-8cf4-675a34e69fb1" />
 
 
